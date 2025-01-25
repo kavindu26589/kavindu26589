@@ -1,85 +1,81 @@
-Hi there! 👋 I'm Kavindu Hansaka Jayasinghe 🌟
+# Hi there! 👋 I'm Kavindu Hansaka Jayasinghe 🌟
 
-Welcome to my GitHub profile! 🚀
+Welcome to my GitHub profile! 🚀 I specialize in Electrical and Electronic Engineering with a passion for AI, robotics, and cutting-edge technology.
 
-🛠️ Skills & Tools
+---
 
+## 🌟 **Skills & Tools**
 
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
+![FPGA](https://img.shields.io/badge/-FPGA-0071C5?style=flat)
+![AI/ML](https://img.shields.io/badge/-AI/ML-orange?style=flat&logo=machine-learning)
 
+---
 
+## 🚀 **What I'm Working On**
 
+- Developing AI/ML solutions for innovative applications.
+- Exploring robotics and automation projects.
+- Pursuing a degree in Electrical and Electronic Engineering at SLIIT.
 
+---
 
+## 🏆 **Achievements**
 
+- **Analyze Data with Power BI** (Microsoft, July 2024).
+- **Create Computer Vision Solutions** with Azure AI Vision (Microsoft).
+- **AWS Machine Learning Certifications**.
+- **TensorFlow for Beginners**.
+- Fundamentals of Responsible Generative AI (Microsoft).
 
-🔥 What I'm Working On
+---
 
-🌐 Developing AI/ML solutions for innovative applications
+## 🛠️ **Featured Projects**
 
-🤖 Exploring robotics and automation projects
+### 🚀 **Autonomous Drone with Object Detection**
+- **Tech Stack**: APM 2.8, CNNs, GPS Mission Planner.
+- **Description**: Real-time object detection and autonomous navigation using computer vision and deep learning models.
 
-🎓 Pursuing a degree in Electrical and Electronic Engineering at SLIIT
+---
 
-🌟 Achievements
+### 🧠 **Brain Tumor Detection Using Deep Learning**
+- **Tech Stack**: Python, CNNs.
+- **Description**: Automated brain tumor detection from MRI images with high accuracy.
 
-Analyze Data with Power BI (Microsoft, July 2024)
+---
 
-Create Computer Vision Solutions with Azure AI Vision (Issued by Microsoft)
+### ☀️ **Dual-Axis Solar Tracker**
+- **Tech Stack**: ESP32, Machine Learning.
+- **Description**: Predicted solar power generation and controlled a solar tracker with machine learning algorithms.
 
-Data Insights (Cisco Networking Academy, July 2024)
+---
 
-AWS Machine Learning Certifications
+### 🚦 **Traffic Management System**
+- **Tech Stack**: Machine Learning, AnyLogic, Image Processing.
+- **Description**: Enhanced urban traffic systems with optimized traffic light timing and real-time traffic monitoring.
 
-Fundamentals of Responsible Generative AI (Microsoft)
+---
 
-TensorFlow for Beginners
+## 📈 **GitHub Stats**
 
-📝 Featured Projects
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kavindu-hansaka&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kavindu-hansaka&layout=compact&theme=tokyonight)
 
-🚀 Autonomous Drone with Object Detection
+---
 
-Tech Stack: APM 2.8, CNNs, GPS Mission Planner
+## 🤝 **Let's Connect!**
 
-Description: Real-time object detection and autonomous navigation using computer vision and deep learning models.
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavindu-hansaka-jayasinghe)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=github&style=flat)](https://yourportfolio.com)
+[![Credly](https://img.shields.io/badge/-Certifications-orange?style=flat)](https://www.credly.com/users/kavindu-hansaka-jayasinghe/badges)
 
-View Repository
+---
 
-🧠 Brain Tumor Detection Using Deep Learning
-
-Tech Stack: Python, CNNs
-
-Description: Automated brain tumor detection from MRI images with high accuracy.
-
-View Repository
-
-☀️ Dual-Axis Solar Tracker
-
-Tech Stack: ESP32, Machine Learning
-
-Description: Predicted solar power generation and controlled solar tracker with machine learning algorithms.
-
-View Repository
-
-🚦 Traffic Management System
-
-Tech Stack: Machine Learning, AnyLogic, Image Processing
-
-Description: Enhanced urban traffic systems with optimized traffic light timing and real-time traffic monitoring.
-
-View Repository
-
-📈 GitHub Stats
-
-
-
-
-🎯 Let's Connect!
-
-
-
-
-
-Fun Fact 🌟
-
+### 🎵 **Fun Fact** 🌟
 When I'm not coding, you can find me playing badminton, chess, or swimming, and exploring the latest trends in technology and AI.
 
+![Wave](https://github.com/username/username/raw/main/assets/wave.gif)
