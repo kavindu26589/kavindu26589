@@ -51,19 +51,12 @@ Welcome to my GitHub profile! 🚀 I specialize in Electrical and Electronic Eng
 ### ☀️ **Dual-Axis Solar Tracker**
 - **Tech Stack**: ESP32, Machine Learning.
 - **Description**: Predicted solar power generation and controlled a solar tracker with machine learning algorithms.
-
+- **Weather Prediction Code**: [GitHub Repository](https://github.com/kavindu26589/weatherprediction)
 ---
 
 ### 🚦 **Traffic Management System**
 - **Tech Stack**: Machine Learning, AnyLogic, Image Processing.
 - **Description**: Enhanced urban traffic systems with optimized traffic light timing and real-time traffic monitoring.
-
----
-
-## 📈 **GitHub Stats**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kavindu-hansaka&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kavindu-hansaka&layout=compact&theme=tokyonight)
 
 ---
 
