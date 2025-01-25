@@ -64,7 +64,7 @@ Welcome to my GitHub profile! 🚀 I specialize in Electrical and Electronic Eng
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavindu-hansaka-jayasinghe)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=github&style=flat)](https://yourportfolio.com)
-[![Credly](https://img.shields.io/badge/-Certifications-orange?style=flat)](https://www.credly.com/users/kavindu-hansaka-jayasinghe/badges)
+[![Credly](https://img.shields.io/badge/-Certifications-orange?style=flat)](https://www.credly.com/users/kavindu-hansaka-jayasinghe)
 
 ---
 
