@@ -23,6 +23,7 @@ Welcome to my GitHub profile! 🚀 I specialize in Electrical and Electronic Eng
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat)  
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)  
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-2C6AB7?logo=scipy&logoColor=white&style=flat)  
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FF8C00?logo=huggingface&logoColor=white&style=flat)  
 ![PyCaret](https://img.shields.io/badge/-PyCaret-000000?logo=python&logoColor=white&style=flat)  
 ![ESP32](https://img.shields.io/badge/-ESP32-8C9191?logo=espressif&logoColor=white&style=flat)  
 ![ESP8266](https://img.shields.io/badge/-ESP8266-8C9191?logo=espressif&logoColor=white&style=flat)  
@@ -48,6 +49,7 @@ Welcome to my GitHub profile! 🚀 I specialize in Electrical and Electronic Eng
 ![Microsoft PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?logo=microsoftpowerpoint&logoColor=white&style=flat)  
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat)  
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white&style=flat)  
+
 
 ---
 
