@@ -39,7 +39,7 @@ Welcome to my GitHub profile! 🚀 I specialize in Electrical and Electronic Eng
 ### ☀️ **Dual-Axis Solar Tracker**
 - **Tech Stack**: ESP32, Machine Learning.
 - **Description**: Predicted solar power generation and controlled a solar tracker with machine learning algorithms.
-- **Weather Prediction Code**: [GitHub Repository]
+- **Weather Prediction Code**: [GitHub Repository](https://github.com/kavindu26589/Dual-Axis-Solar-Tracker-Project)
   
 ---
 
