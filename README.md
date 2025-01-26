@@ -128,7 +128,8 @@ I’m always looking for exciting projects and collaborations. If you’re worki
 
 [![Email](https://img.shields.io/badge/-Email-blue?logo=gmail&logoColor=white)](mailto:khjayasinghe26589@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavindu-hansaka-jayasinghe)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=github&style=flat)](https://yourportfolio.com)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/kavinduhansaka.jayasinghe)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/+94712791378)
 [![Credly](https://img.shields.io/badge/-Certifications-orange?style=flat)](https://www.credly.com/users/kavindu-hansaka-jayasinghe)
 
 ---
