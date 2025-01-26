@@ -73,14 +73,14 @@ Welcome to my GitHub profile! 🚀 I specialize in Electrical and Electronic Eng
 
 ### 🌦️ **Weather Prediction Using Random Forest**
 - **Tech Stack**: Python, Random Forest.
-- **Description**: Machine learning model for weather prediction leveraging the Random Forest algorithm to achieve reliable forecasts based on historical weather data..
+- **Description**: Machine learning model for weather prediction leveraging the Random Forest algorithm to achieve reliable forecasts based on historical weather data.
 - **Weather Prediction Code**: [GitHub Repository](https://github.com/kavindu26589/weatherprediction)
   
 ---
   
 ### 🧠 **Brain Tumor Detection Using Deep Learning**
-- **Tech Stack**: Python, CNNs.
-- **Description**: Automated brain tumor detection from MRI images with high accuracy.
+- **Tech Stack**: Python, TensorFlow, Keras, CNNs, VGG16.
+- **Description**: A deep learning solution for classifying brain MRI scans into four categories—No Tumor, Meningioma, Pituitary Tumor, and Glioma—leveraging transfer learning, data augmentation, and hyperparameter tuning for high accuracy.
 - **Brain Tumor Detection Code**: [GitHub Repository](https://github.com/kavindu26589/Brain-Tumor-Detection-Using-Deep-Learning)
   
 ---
