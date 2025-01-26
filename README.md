@@ -28,7 +28,6 @@ Welcome to my GitHub profile! 🚀 I specialize in Electrical and Electronic Eng
 ![ESP32](https://img.shields.io/badge/-ESP32-8C9191?logo=espressif&logoColor=white&style=flat) 
 ![ESP8266](https://img.shields.io/badge/-ESP8266-8C9191?logo=espressif&logoColor=white&style=flat)  
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=flat)  
-![PIC Microcontrollers](https://img.shields.io/badge/-PIC%20Microcontrollers-00BFFF?style=flat)  
 ![FPGA](https://img.shields.io/badge/-FPGA-0071C5?logo=intel&logoColor=white&style=flat)  
 ![PLC](https://img.shields.io/badge/-PLC-FF5733?style=flat)   
 ![IoT](https://img.shields.io/badge/-IoT-00A9E0?logo=raspberrypi&logoColor=white&style=flat)
