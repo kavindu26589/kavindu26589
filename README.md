@@ -75,6 +75,22 @@ Welcome to my GitHub profile! 🚀 I specialize in Electrical and Electronic Eng
 
 ---
 
+---
+
+## 🏅 **Certifications**
+
+- [Artificial Intelligence Fundamentals](https://www.credly.com/badges/e56deb8b-4fe6-4756-918c-ebb2a9d1d80d/public_url) *(IBM SkillsBuild, Issued: 9/20/24)*
+- [Python Essentials 1](https://www.credly.com/badges/75510adb-0c77-42c5-9dae-4840e304cabe/public_url) *(Cisco, Issued: 4/2/24)*
+- [Python Essentials 2](https://www.credly.com/badges/c578843a-caac-479a-81ed-6dc2980eb802/public_url) *(Cisco, Issued: 7/9/24)*
+- [AWS Educate Introduction to Generative AI](https://www.credly.com/badges/e6dfbc96-7382-48cd-ade1-fbe03687d08a/public_url) *(AWS, Issued: 1/17/25)*
+- [Data Analytics Essentials](https://www.credly.com/badges/67bd0f38-9589-4857-a813-0031c75ea949/public_url) *(Cisco, Issued: 10/11/24)*
+- [AWS Educate Machine Learning Foundations](https://www.credly.com/badges/e6a04231-1c3d-4906-9b83-d4afe366181b/public_url) *(AWS, Issued: 1/21/25)*
+- [Introduction to IoT](https://www.credly.com/badges/7e75fad7-369e-4940-81dd-9dada8444710/public_url) *(Cisco, Issued: 7/12/24)*
+- [Introduction to Cybersecurity](https://www.credly.com/badges/fe8e267d-22da-4b05-b257-cbdd45603ae7/public_url) *(Cisco, Issued: 9/14/24)*
+- [Cyber Threat Management](https://www.credly.com/badges/67bd0f38-9589-4857-a813-0031c75ea949/public_url) *(Cisco, Issued: 11/12/24)*
+
+---
+
 ## 📈 **GitHub Stats**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kavindu26589&show_icons=true&theme=tokyonight)
