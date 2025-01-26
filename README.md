@@ -6,10 +6,6 @@ Welcome to my GitHub profile! 🚀 I specialize in Electrical and Electronic Eng
 
 ## 🌟 **Skills & Tools**
 
-## 🌟 **Skills & Tools**
-
-## 🌟 **Skills & Tools**
-
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat)
@@ -18,16 +14,20 @@ Welcome to my GitHub profile! 🚀 I specialize in Electrical and Electronic Eng
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&style=flat)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?logo=tensorflow&logoColor=white&style=flat)
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-003B57?logo=pytorch&logoColor=white&style=flat)
-![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-0E76A8?logo=opencv&logoColor=white&style=flat)
-![Natural Language Processing](https://img.shields.io/badge/-NLP-43853D?logo=google&logoColor=white&style=flat)
-![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-FFD700?logo=databricks&logoColor=black&style=flat)
-![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-4B8BBE?logo=tableau&logoColor=white&style=flat)
+![MicroPython](https://img.shields.io/badge/-MicroPython-00A4EF?logo=python&logoColor=white&style=flat)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)
+![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=flat)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=white&style=flat)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-2C6AB7?logo=scipy&logoColor=white&style=flat)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=white&style=flat)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FF8C00?logo=huggingface&logoColor=white&style=flat)
+![PyCaret](https://img.shields.io/badge/-PyCaret-000000?logo=python&logoColor=white&style=flat)
+![ESP32](https://img.shields.io/badge/-ESP32-8C9191?logo=espressif&logoColor=white&style=flat)
+![IoT](https://img.shields.io/badge/-IoT-00A9E0?logo=raspberrypi&logoColor=white&style=flat)
+![Robotics](https://img.shields.io/badge/-Robotics-000000?style=flat)
 ![Amazon Web Services](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white&style=flat)
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?logo=microsoftazure&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
@@ -36,7 +36,6 @@ Welcome to my GitHub profile! 🚀 I specialize in Electrical and Electronic Eng
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
 ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-5C2D91?logo=microsoftdefender&logoColor=white&style=flat)
-![IoT](https://img.shields.io/badge/-Internet%20of%20Things-00A9E0?logo=raspberrypi&logoColor=white&style=flat)
 ![Network Security](https://img.shields.io/badge/-Network%20Security-0078D7?logo=letsencrypt&logoColor=white&style=flat)
 ![Penetration Testing](https://img.shields.io/badge/-Penetration%20Testing-E34C26?style=flat)
 ![IPv4](https://img.shields.io/badge/-IPv4-0078D7?style=flat)
