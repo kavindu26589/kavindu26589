@@ -36,6 +36,19 @@ Welcome to my GitHub profile! 🚀 I specialize in Electrical and Electronic Eng
 
 ## 🛠️ **Featured Projects**
 
+### ☀️ **Dual-Axis Solar Tracker**
+- **Tech Stack**: ESP32, Machine Learning.
+- **Description**: Predicted solar power generation and controlled a solar tracker with machine learning algorithms.
+- **Weather Prediction Code**: [GitHub Repository](https://github.com/kavindu26589/weatherprediction)
+---
+
+### 🤖 **Automatic Plowing Machine**
+- **Tech Stack**: ESP32, IoT, MPU6050, Blynk.
+- **Description**: A hybrid plowing system with automatic and manual modes featuring obstacle avoidance, pathfinding, angle measurement, and IoT-based control for efficient farming operations.
+- **Automatic Plowing Machine Code**: [GitHub Repository](https://github.com/kavindu26589/Automatic_Plowing_Machine)
+  
+---
+  
 ### 🚀 **Autonomous Drone with Object Detection**
 - **Tech Stack**: APM 2.8, CNNs, GPS Mission Planner.
 - **Description**: Real-time object detection and autonomous navigation using computer vision and deep learning models.
@@ -48,15 +61,16 @@ Welcome to my GitHub profile! 🚀 I specialize in Electrical and Electronic Eng
 
 ---
 
-### ☀️ **Dual-Axis Solar Tracker**
-- **Tech Stack**: ESP32, Machine Learning.
-- **Description**: Predicted solar power generation and controlled a solar tracker with machine learning algorithms.
-- **Weather Prediction Code**: [GitHub Repository](https://github.com/kavindu26589/weatherprediction)
----
-
 ### 🚦 **Traffic Management System**
 - **Tech Stack**: Machine Learning, AnyLogic, Image Processing.
 - **Description**: Enhanced urban traffic systems with optimized traffic light timing and real-time traffic monitoring.
+
+---
+
+## 📈 **GitHub Stats**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kavindu26589&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kavindu26589&layout=compact&theme=tokyonight)
 
 ---
 
