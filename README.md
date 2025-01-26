@@ -15,15 +15,12 @@ Welcome to my GitHub profile! 🚀 I specialize in Electrical and Electronic Eng
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)
-
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?logo=tensorflow&logoColor=white&style=flat)
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-003B57?logo=pytorch&logoColor=white&style=flat)
 ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-0E76A8?logo=opencv&logoColor=white&style=flat)
 ![Natural Language Processing](https://img.shields.io/badge/-NLP-43853D?logo=google&logoColor=white&style=flat)
-
 ![Amazon Web Services](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white&style=flat)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
-
 ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-5C2D91?logo=microsoftdefender&logoColor=white&style=flat)
 ![IoT](https://img.shields.io/badge/-Internet%20of%20Things-00A9E0?logo=raspberrypi&logoColor=white&style=flat)
 ![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-4B8BBE?logo=tableau&logoColor=white&style=flat)
