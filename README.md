@@ -111,13 +111,6 @@ Here are some of my key certifications:
 
 ---
 
-## 📈 **GitHub Stats**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kavindu26589&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kavindu26589&layout=compact&theme=tokyonight)
-
----
-
 ## 🤝 **Collaborate with Me!**
 I’m always looking for exciting projects and collaborations. If you’re working on something innovative in AI, robotics, or data engineering, feel free to reach out!
 
