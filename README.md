@@ -39,13 +39,21 @@ Welcome to my GitHub profile! 🚀 I specialize in Electrical and Electronic Eng
 ### ☀️ **Dual-Axis Solar Tracker**
 - **Tech Stack**: ESP32, Machine Learning.
 - **Description**: Predicted solar power generation and controlled a solar tracker with machine learning algorithms.
-- **Weather Prediction Code**: [GitHub Repository](https://github.com/kavindu26589/weatherprediction)
+- **Weather Prediction Code**: [GitHub Repository]
+  
 ---
 
 ### 🤖 **Automatic Plowing Machine**
 - **Tech Stack**: ESP32, IoT, MPU6050, Blynk.
 - **Description**: A hybrid plowing system with automatic and manual modes featuring obstacle avoidance, pathfinding, angle measurement, and IoT-based control for efficient farming operations.
 - **Automatic Plowing Machine Code**: [GitHub Repository](https://github.com/kavindu26589/Automatic_Plowing_Machine)
+  
+---
+
+### 🌦️ **Weather Prediction Using Random Forest**
+- **Tech Stack**: Python, Random Forest.
+- **Description**: Machine learning model for weather prediction leveraging the Random Forest algorithm to achieve reliable forecasts based on historical weather data..
+- **Weather Prediction Code**: [GitHub Repository](https://github.com/kavindu26589/weatherprediction)
   
 ---
   
