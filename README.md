@@ -67,26 +67,21 @@ Welcome to my GitHub profile! 🚀 I specialize in Electrical and Electronic Eng
 
 ## 🏅 **Certifications**
 
-## 🏅 **Certifications**
+Here are some of my key certifications:
 
-- [Artificial Intelligence Fundamentals](https://www.credly.com/badges/e56deb8b-4fe6-4756-918c-ebb2a9d1d80d/public_url) *(IBM SkillsBuild, Issued: 9/20/24)*
-- [Python Essentials 1](https://www.credly.com/badges/75510adb-0c77-42c5-9dae-4840e304cabe/public_url) *(Cisco, Issued: 4/2/24)*
-- [Python Essentials 2](https://www.credly.com/badges/c578843a-caac-479a-81ed-6dc2980eb802/public_url) *(Cisco, Issued: 7/9/24)*
-- [AWS Educate Introduction to Generative AI](https://www.credly.com/badges/e6dfbc96-7382-48cd-ade1-fbe03687d08a/public_url) *(AWS, Issued: 1/17/25)*
-- [Data Analytics Essentials](https://www.credly.com/badges/67bd0f38-9589-4857-a813-0031c75ea949/public_url) *(Cisco, Issued: 10/11/24)*
-- [AWS Educate Machine Learning Foundations](https://www.credly.com/badges/e6a04231-1c3d-4906-9b83-d4afe366181b/public_url) *(AWS, Issued: 1/21/25)*
-- [Introduction to IoT](https://www.credly.com/badges/7e75fad7-369e-4940-81dd-9dada8444710/public_url) *(Cisco, Issued: 7/12/24)*
-- [Introduction to Cybersecurity](https://www.credly.com/badges/fe8e267d-22da-4b05-b257-cbdd45603ae7/public_url) *(Cisco, Issued: 9/14/24)*
-- [Cyber Threat Management](https://www.credly.com/badges/67bd0f38-9589-4857-a813-0031c75ea949/public_url) *(Cisco, Issued: 11/12/24)*
-- [AI Fundamentals with IBM SkillsBuild](https://www.credly.com/badges/e6dfbc96-7382-48cd-ade1-fbe03687d08a/public_url) *(Cisco, Issued: 11/5/24)*
-- [Operating Systems Basics](https://www.credly.com/badges/863b98ed-fc48-4909-a7bb-bc39c14a3629/public_url) *(Cisco, Issued: 9/13/24)*
-- [Introduction to Data Science](https://www.credly.com/badges/fe8e267d-22da-4b05-b257-cbdd45603ae7/public_url) *(Cisco, Issued: 7/9/24)*
-- [Computer Hardware Basics](https://www.credly.com/badges/67bd0f38-9589-4857-a813-0031c75ea949/public_url) *(Cisco, Issued: 3/26/24)*
-- [JavaScript Essentials 1](https://www.credly.com/badges/7e75fad7-369e-4940-81dd-9dada8444710/public_url) *(Cisco, Issued: 7/11/24)*
-- [Engaging Stakeholders for Success](https://www.credly.com/badges/e6a04231-1c3d-4906-9b83-d4afe366181b/public_url) *(Cisco, Issued: 3/30/24)*
-- [Networking Basics](https://www.credly.com/badges/e6dfbc96-7382-48cd-ade1-fbe03687d08a/public_url) *(Cisco, Issued: 12/24/24)*
-- [Digital Awareness](https://www.credly.com/badges/67bd0f38-9589-4857-a813-0031c75ea949/public_url) *(Cisco, Issued: 1/14/25)*
-- [Python and Pandas for Data Engineering](https://coursera.org/verify/T1OM0SV09WB2) *(Duke University, Issued: 1/23/25)*
+- **AI & Data Science**:
+  - [Artificial Intelligence Fundamentals](https://www.credly.com/badges/e56deb8b-4fe6-4756-918c-ebb2a9d1d80d/public_url) *(IBM SkillsBuild)*
+  - [Python and Pandas for Data Engineering](https://coursera.org/verify/T1OM0SV09WB2) *(Duke University)*
+
+- **Programming Foundations**:
+  - [Python Essentials 1 & 2](https://www.credly.com/badges/75510adb-0c77-42c5-9dae-4840e304cabe/public_url) *(Cisco)*
+  - [JavaScript Essentials 1](https://www.credly.com/badges/7e75fad7-369e-4940-81dd-9dada8444710/public_url) *(Cisco)*
+
+- **Cloud & Networking**:
+  - [AWS Educate Machine Learning Foundations](https://www.credly.com/badges/e6a04231-1c3d-4906-9b83-d4afe366181b/public_url) *(AWS)*
+  - [Networking Basics](https://www.credly.com/badges/e6dfbc96-7382-48cd-ade1-fbe03687d08a/public_url) *(Cisco)*
+
+📜 [View All My Certifications](https://www.credly.com/users/kavindu-hansaka-jayasinghe/badges)
 
 ---
 
