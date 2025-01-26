@@ -24,16 +24,6 @@ Welcome to my GitHub profile! 🚀 I specialize in Electrical and Electronic Eng
 
 ---
 
-## 🏆 **Achievements**
-
-- **Analyze Data with Power BI** (Microsoft, July 2024).
-- **Create Computer Vision Solutions** with Azure AI Vision (Microsoft).
-- **AWS Machine Learning Certifications**.
-- **TensorFlow for Beginners**.
-- Fundamentals of Responsible Generative AI (Microsoft).
-
----
-
 ## 🛠️ **Featured Projects**
 
 ### ☀️ **Dual-Axis Solar Tracker**
@@ -75,7 +65,7 @@ Welcome to my GitHub profile! 🚀 I specialize in Electrical and Electronic Eng
 
 ---
 
----
+## 🏅 **Certifications**
 
 ## 🏅 **Certifications**
 
@@ -88,6 +78,15 @@ Welcome to my GitHub profile! 🚀 I specialize in Electrical and Electronic Eng
 - [Introduction to IoT](https://www.credly.com/badges/7e75fad7-369e-4940-81dd-9dada8444710/public_url) *(Cisco, Issued: 7/12/24)*
 - [Introduction to Cybersecurity](https://www.credly.com/badges/fe8e267d-22da-4b05-b257-cbdd45603ae7/public_url) *(Cisco, Issued: 9/14/24)*
 - [Cyber Threat Management](https://www.credly.com/badges/67bd0f38-9589-4857-a813-0031c75ea949/public_url) *(Cisco, Issued: 11/12/24)*
+- [AI Fundamentals with IBM SkillsBuild](https://www.credly.com/badges/e6dfbc96-7382-48cd-ade1-fbe03687d08a/public_url) *(Cisco, Issued: 11/5/24)*
+- [Operating Systems Basics](https://www.credly.com/badges/863b98ed-fc48-4909-a7bb-bc39c14a3629/public_url) *(Cisco, Issued: 9/13/24)*
+- [Introduction to Data Science](https://www.credly.com/badges/fe8e267d-22da-4b05-b257-cbdd45603ae7/public_url) *(Cisco, Issued: 7/9/24)*
+- [Computer Hardware Basics](https://www.credly.com/badges/67bd0f38-9589-4857-a813-0031c75ea949/public_url) *(Cisco, Issued: 3/26/24)*
+- [JavaScript Essentials 1](https://www.credly.com/badges/7e75fad7-369e-4940-81dd-9dada8444710/public_url) *(Cisco, Issued: 7/11/24)*
+- [Engaging Stakeholders for Success](https://www.credly.com/badges/e6a04231-1c3d-4906-9b83-d4afe366181b/public_url) *(Cisco, Issued: 3/30/24)*
+- [Networking Basics](https://www.credly.com/badges/e6dfbc96-7382-48cd-ade1-fbe03687d08a/public_url) *(Cisco, Issued: 12/24/24)*
+- [Digital Awareness](https://www.credly.com/badges/67bd0f38-9589-4857-a813-0031c75ea949/public_url) *(Cisco, Issued: 1/14/25)*
+- [Python and Pandas for Data Engineering](https://coursera.org/verify/T1OM0SV09WB2) *(Duke University, Issued: 1/23/25)*
 
 ---
 
@@ -98,8 +97,10 @@ Welcome to my GitHub profile! 🚀 I specialize in Electrical and Electronic Eng
 
 ---
 
-## 🤝 **Let's Connect!**
+## 🤝 **Collaborate with Me!**
+I’m always looking for exciting projects and collaborations. If you’re working on something innovative in AI, robotics, or data engineering, feel free to reach out!
 
+[![Email](https://img.shields.io/badge/-Email-blue?logo=gmail&logoColor=white)](mailto:khjayasinghe26589@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavindu-hansaka-jayasinghe)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=github&style=flat)](https://yourportfolio.com)
 [![Credly](https://img.shields.io/badge/-Certifications-orange?style=flat)](https://www.credly.com/users/kavindu-hansaka-jayasinghe)
