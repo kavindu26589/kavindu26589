@@ -78,22 +78,11 @@ Welcome to my GitHub profile! 🚀 I specialize in Electrical and Electronic Eng
   
 ---
   
-### 🚀 **Autonomous Drone with Object Detection**
-- **Tech Stack**: APM 2.8, CNNs, GPS Mission Planner.
-- **Description**: Real-time object detection and autonomous navigation using computer vision and deep learning models.
-
----
-
 ### 🧠 **Brain Tumor Detection Using Deep Learning**
 - **Tech Stack**: Python, CNNs.
 - **Description**: Automated brain tumor detection from MRI images with high accuracy.
-
----
-
-### 🚦 **Traffic Management System**
-- **Tech Stack**: Machine Learning, AnyLogic, Image Processing.
-- **Description**: Enhanced urban traffic systems with optimized traffic light timing and real-time traffic monitoring.
-
+- **Brain Tumor Detection Code**: [GitHub Repository](https://github.com/kavindu26589/Brain-Tumor-Detection-Using-Deep-Learning)
+  
 ---
 
 ## 🏅 **Certifications**
