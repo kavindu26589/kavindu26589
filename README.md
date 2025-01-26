@@ -80,7 +80,7 @@ Welcome to my GitHub profile! 🚀 I specialize in Electrical and Electronic Eng
 ### 🌦️ **Weather Prediction Using Random Forest**
 - **Tech Stack**: Python, Random Forest.
 - **Description**: Machine learning model for weather prediction leveraging the Random Forest algorithm to achieve reliable forecasts based on historical weather data.
-- **Weather Prediction Code**: [GitHub Repository](https://github.com/kavindu26589/weatherprediction)
+- **Weather Prediction Code**: [GitHub Repository](https://github.com/kavindu26589/Weather-Prediction)
   
 ---
   
