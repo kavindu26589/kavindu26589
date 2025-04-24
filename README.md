@@ -95,20 +95,46 @@ Welcome to my GitHub profile! 🚀 I specialize in Electrical and Electronic Eng
 
 Here are some of my key certifications:
 
-- **AI & Data Science**:
-  - [Artificial Intelligence Fundamentals](https://www.credly.com/badges/e56deb8b-4fe6-4756-918c-ebb2a9d1d80d/public_url) *(IBM SkillsBuild)*
-  - [Python and Pandas for Data Engineering](https://coursera.org/verify/T1OM0SV09WB2) *(Duke University)*
+### 🧠 AI & Data Science:
+- [Artificial Intelligence Fundamentals (IBM SkillsBuild)](https://www.credly.com/badges/e56deb8b-4fe6-4756-918c-ebb2a9d1d80d/public_url)
+- [Python and Pandas for Data Engineering – Duke University (Coursera)](https://coursera.org/verify/T1OM0SV09WB2)
+- Artificial Intelligence Essentials V2 – IBM/Coursera *(Issued: 2/21/25)*
+- Deep Learning Essentials with Keras – IBM/Coursera *(Issued: 2/14/25)*
+- Generative AI Essentials – IBM/Coursera *(Issued: 2/21/25)*
+- Generative AI Essentials for Software Developers – IBM/Coursera *(Issued: 3/5/25)*
+- Generative AI Engineering with Transformers & LLMs – IBM/Coursera *(Issued: 2/13/25)*
+- Generative AI Language Modeling with Transformers – IBM/Coursera *(Issued: 2/12/25)*
+- Generative AI and LLMs: Architecture and Data Handling – IBM/Coursera *(Issued: 2/14/25)*
+- Generative AI Advanced Fine-Tuning for LLMs – IBM/Coursera *(Issued: 2/14/25)*
+- Building Generative AI-Powered Applications with Python – IBM/Coursera *(Issued: 2/27/25)*
 
-- **Programming Foundations**:
-  - [Python Essentials 1 & 2](https://www.credly.com/badges/75510adb-0c77-42c5-9dae-4840e304cabe/public_url) *(Cisco)*
-  - [JavaScript Essentials 1](https://www.credly.com/badges/7e75fad7-369e-4940-81dd-9dada8444710/public_url) *(Cisco)*
+### ⚙️ AI Tools & Agents:
+- AI Agents Using RAG and LangChain – IBM/Coursera *(Issued: 2/15/25)*
+- Generative AI Applications Specialist – IBM/Coursera *(Issued: 2/16/25)*
 
-- **Cloud & Networking**:
-  - [AWS Educate Machine Learning Foundations](https://www.credly.com/badges/e6a04231-1c3d-4906-9b83-d4afe366181b/public_url) *(AWS)*
-  - [Networking Basics](https://www.credly.com/badges/e6dfbc96-7382-48cd-ade1-fbe03687d08a/public_url) *(Cisco)*
+### 🔧 Programming & Development:
+- [Python Essentials 1 & 2 – Cisco](https://www.credly.com/badges/75510adb-0c77-42c5-9dae-4840e304cabe/public_url)
+- [JavaScript Essentials 1 – Cisco](https://www.credly.com/badges/7e75fad7-369e-4940-81dd-9dada8444710/public_url)
+- Introduction to Neural Networks with PyTorch – IBM/Coursera *(Issued: 2/12/25)*
+- Machine Learning with Python (V2) – IBM/Coursera *(Issued: 2/14/25)*
+- Python for Data Science and AI – IBM/Coursera *(Issued: 2/26/25)*
+- Python Project for AI and Application Development – IBM/Coursera *(Issued: 3/9/25)*
+- Software Engineering Essentials – IBM/Coursera *(Issued: 2/20/25)*
 
-📜 [View All My Certifications](https://www.credly.com/users/kavindu-hansaka-jayasinghe/badges)
+### ☁️ Cloud & Big Data:
+- [AWS Educate Machine Learning Foundations – AWS](https://www.credly.com/badges/e6a04231-1c3d-4906-9b83-d4afe366181b/public_url)
+- AWS Educate Introduction to Cloud 101 – AWS *(Issued: 1/29/25)*
+- Big Data Foundations - Level 1 – IBM *(Issued: 2/3/25)*
+- Hadoop Foundations - Level 1 – IBM *(Issued: 2/11/25)*
 
+### 🌐 Networking & Security:
+- [Networking Basics – Cisco](https://www.credly.com/badges/e6dfbc96-7382-48cd-ade1-fbe03687d08a/public_url)
+
+### 📄 Professional Certificates:
+- IBM AI Engineering Professional Certificate (V3) – IBM/Coursera *(Issued: 2/16/25)*
+- IBM AI Developer Professional Certificate – IBM/Coursera *(Issued: 3/9/25)*
+
+📜 [View All My Certifications on Credly](https://www.credly.com/users/kavindu-hansaka-jayasinghe/badges)
 ---
 
 ## 🤝 **Collaborate with Me!**
