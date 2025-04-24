@@ -1,5 +1,7 @@
 # Hi there! 👋 I'm Kavindu Hansaka Jayasinghe 🌟
 
+> 🎓 Electrical & Electronic Engineer | 🤖 AI & Robotics Enthusiast | 🌐 Full-Stack & IoT Developer | 💡 Open to Collaboration
+
 Welcome to my GitHub profile! 🚀 I specialize in Electrical and Electronic Engineering with a passion for AI, robotics, and cutting-edge technology.
 
 ---
@@ -33,8 +35,8 @@ Welcome to my GitHub profile! 🚀 I specialize in Electrical and Electronic Eng
 ![PLC](https://img.shields.io/badge/-PLC-FF5733?style=flat)
 ![IoT](https://img.shields.io/badge/-IoT-00A9E0?logo=raspberrypi&logoColor=white&style=flat)
 ![Robotics](https://img.shields.io/badge/-Robotics-000000?style=flat)
-![Amazon Web Services](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white&style=flat)
-![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?logo=microsoftazure&logoColor=white&style=flat)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white&style=flat)
+![Azure](https://img.shields.io/badge/-Azure-0089D6?logo=microsoftazure&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white&style=flat)
@@ -45,78 +47,76 @@ Welcome to my GitHub profile! 🚀 I specialize in Electrical and Electronic Eng
 ![Penetration Testing](https://img.shields.io/badge/-Penetration%20Testing-E34C26?style=flat)
 ![IPv4](https://img.shields.io/badge/-IPv4-0078D7?style=flat)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=flat)
-![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346?logo=microsoftexcel&logoColor=white&style=flat)
-![Microsoft PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?logo=microsoftpowerpoint&logoColor=white&style=flat)
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat)
+![Microsoft Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoftexcel&logoColor=white&style=flat)
+![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?logo=microsoftpowerpoint&logoColor=white&style=flat)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white&style=flat)
 
 ---
 
 ## 🚀 **What I'm Working On**
 
-- Developing AI/ML solutions for innovative applications.
-- Exploring robotics and automation projects.
-- Designing and implementing IoT solutions, networking, and embedded solutions
-- Pursuing a degree in Electrical and Electronic Engineering at SLIIT.
+- 🤖 Building AI/ML tools with real-world applications (e.g., predictive analytics, robotics control)
+- 📡 Designing IoT and embedded systems for smart automation
+- 📚 Researching and developing ML-based engineering solutions
+- 🎓 Pursuing a degree in Electrical and Electronic Engineering at SLIIT
 
 ---
 
 ## 🛠️ **Featured Projects**
 
-### ☀️ **Dual-Axis Solar Tracker**
-- **Tech Stack**: ESP32, Machine Learning.
-- **Description**: Predicted solar power generation and controlled a solar tracker with machine learning algorithms.
-- **Weather Prediction Code**: [GitHub Repository](https://github.com/kavindu26589/Dual-Axis-Solar-Tracker-Project)
-  
----
+### 🔆 Dual-Axis Solar Tracker
+- **Tech Stack**: ESP32, Machine Learning
+- **Description**: Predicted solar power generation and controlled a solar tracker using ML algorithms  
+[GitHub Repository](https://github.com/kavindu26589/Dual-Axis-Solar-Tracker-Project)
 
-### 🤖 **Automatic Plowing Machine**
-- **Tech Stack**: ESP32, IoT, MPU6050, Blynk.
-- **Description**: A hybrid plowing system with automatic and manual modes featuring obstacle avoidance, pathfinding, angle measurement, and IoT-based control for efficient farming operations.
-- **Automatic Plowing Machine Code**: [GitHub Repository](https://github.com/kavindu26589/Automatic_Plowing_Machine)
-  
----
+### 🤖 Automatic Plowing Machine
+- **Tech Stack**: ESP32, IoT, MPU6050, Blynk  
+- **Description**: A hybrid plowing system with automatic/manual modes, obstacle avoidance, and IoT-based control  
+[GitHub Repository](https://github.com/kavindu26589/Automatic_Plowing_Machine)
 
-### 🌦️ **Weather Prediction Using Random Forest**
-- **Tech Stack**: Python, Random Forest.
-- **Description**: Machine learning model for weather prediction leveraging the Random Forest algorithm to achieve reliable forecasts based on historical weather data.
-- **Weather Prediction Code**: [GitHub Repository](https://github.com/kavindu26589/Weather-Prediction)
-  
----
-  
-### 🧠 **Brain Tumor Detection Using Deep Learning**
-- **Tech Stack**: Python, TensorFlow, Keras, CNNs, VGG16.
-- **Description**: A deep learning solution for classifying brain MRI scans into four categories—No Tumor, Meningioma, Pituitary Tumor, and Glioma—leveraging transfer learning, data augmentation, and hyperparameter tuning for high accuracy.
-- **Brain Tumor Detection Code**: [GitHub Repository](https://github.com/kavindu26589/Brain-Tumor-Detection-Using-Deep-Learning)
-  
+### 🌧️ Weather Prediction Using Random Forest
+- **Tech Stack**: Python, Random Forest  
+- **Description**: ML model for weather forecasting based on historical data  
+[GitHub Repository](https://github.com/kavindu26589/Weather-Prediction)
+
+### 🧠 Brain Tumor Detection Using Deep Learning
+- **Tech Stack**: Python, TensorFlow, Keras, VGG16  
+- **Description**: CNN-based classifier for MRI brain tumor types with transfer learning and augmentation  
+[GitHub Repository](https://github.com/kavindu26589/Brain-Tumor-Detection-Using-Deep-Learning)
+
 ---
 
 ## 🏅 **Certifications**
 
 ### 🧠 AI & Machine Learning
-- IBM AI Engineering Professional Certificate (V3) – Coursera *(Issued: 2/16/25)*
-- IBM AI Developer Professional Certificate – Coursera *(Issued: 3/9/25)*
-- Generative AI Applications Specialist – Coursera *(Issued: 2/16/25)*
-- Generative AI Engineering with Transformers & LLMs – Coursera *(Issued: 2/13/25)*
-- AI Agents Using RAG and LangChain – Coursera *(Issued: 2/15/25)*
-- Artificial Intelligence Fundamentals – IBM SkillsBuild
-- Python and Pandas for Data Engineering – Duke University
+- **IBM** – AI Engineering Professional Certificate *(Feb 2025)*
+- **IBM** – AI Developer Professional Certificate *(Mar 2025)*
+- **IBM** – Generative AI Applications Specialist *(Feb 2025)*
+- **IBM** – Generative AI with Transformers & LLMs *(Feb 2025)*
+- **IBM** – AI Agents Using RAG and LangChain *(Feb 2025)*
+- **IBM SkillsBuild** – Artificial Intelligence Fundamentals
+- **Duke University** – Python and Pandas for Data Engineering
 
 ### ☁️ Cloud & Big Data
-- AWS Educate Introduction to Cloud 101 – AWS *(Issued: 1/29/25)*
-- Big Data Foundations - Level 1 – IBM *(Issued: 2/3/25)*
-- AWS Educate Machine Learning Foundations – AWS
-- Networking Basics – Cisco
+- **AWS** – Educate Introduction to Cloud 101 *(Jan 2025)*
+- **IBM** – Big Data Foundations - Level 1 *(Feb 2025)*
+- **AWS** – Machine Learning Foundations
+- **Cisco** – Networking Basics
 
 ### 👨‍💻 Programming Foundations
-- Introduction to Neural Networks with PyTorch – Coursera *(Issued: 2/12/25)*
-- Python Essentials 1 & 2 – Cisco
-- JavaScript Essentials 1 – Cisco
+- **IBM** – Intro to Neural Networks with PyTorch *(Feb 2025)*
+- **Cisco** – Python Essentials 1 & 2
+- **Cisco** – JavaScript Essentials 1
+
 📜 [View All My Certifications on Credly](https://www.credly.com/users/kavindu-hansaka-jayasinghe/badges)
+
 ---
 
+
 ## 🤝 **Collaborate with Me!**
-I’m always looking for exciting projects and collaborations. If you’re working on something innovative in AI, robotics, or data engineering, feel free to reach out!
+
+I’m always looking for exciting projects and collaborations. If you’re working on something innovative in AI, robotics, or data engineering — let’s connect!
 
 [![Email](https://img.shields.io/badge/-Email-blue?logo=gmail&logoColor=white)](mailto:khjayasinghe26589@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavindu-hansaka-jayasinghe)
@@ -127,6 +127,6 @@ I’m always looking for exciting projects and collaborations. If you’re worki
 ---
 
 ### 🎵 **Fun Fact** 🌟
-When I'm not coding, you can find me playing badminton, chess, or swimming, and exploring the latest trends in technology and AI.
+When I'm not coding, you can find me playing badminton, chess, or swimming — and diving deep into the latest trends in tech and AI.
 
 ![Wave](https://github.com/username/username/raw/main/assets/wave.gif)
