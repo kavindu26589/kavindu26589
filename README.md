@@ -42,7 +42,6 @@ Welcome to my GitHub profile! 🚀 I specialize in Electrical and Electronic Eng
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white&style=flat)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
-![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-5C2D91?logo=microsoftdefender&logoColor=white&style=flat)
 ![Network Security](https://img.shields.io/badge/-Network%20Security-0078D7?logo=letsencrypt&logoColor=white&style=flat)
 ![Penetration Testing](https://img.shields.io/badge/-Penetration%20Testing-E34C26?style=flat)
 ![IPv4](https://img.shields.io/badge/-IPv4-0078D7?style=flat)
