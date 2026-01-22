@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Kavindu Hansaka Jayasinghe 🌟
 
-> 🎓 Electrical & Electronic Engineer | 🤖 AI & Robotics Enthusiast | 🌐 Full-Stack & IoT Developer | 💡 Open to Collaboration
+> 🎓 Electrical & Electronic Engineer | 🤖 AI/ML Developer | 🌐 AI Engineer | 💡 Open to Collaboration
 
 Welcome to my GitHub profile! 🚀 I specialize in Electrical and Electronic Engineering with a passion for AI, robotics, and cutting-edge technology.
 
