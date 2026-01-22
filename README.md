@@ -136,9 +136,3 @@ I’m always looking for exciting projects and collaborations. If you’re worki
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/+94712791378)
 [![Credly](https://img.shields.io/badge/-Certifications-orange?style=flat)](https://www.credly.com/users/kavindu-hansaka-jayasinghe)
 
----
-
-### 🎵 **Fun Fact** 🌟
-When I'm not coding, you can find me playing badminton, chess, or swimming — and diving deep into the latest trends in tech and AI.
-
-![Wave](https://github.com/username/username/raw/main/assets/wave.gif)
